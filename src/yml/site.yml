@@ -12,7 +12,7 @@ disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
-    url: /
+    url: http://www.ayerlans.cn/
   - title: About
     url: /about
   - title: Contact
