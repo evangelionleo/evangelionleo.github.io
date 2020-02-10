@@ -1,6 +1,6 @@
 name: Ayerlans
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+title: test title
+description: god is in his heaven
 tags:
   - blog
   - template
@@ -12,7 +12,7 @@ disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
-    url: http://www.ayerlans.cn/
+    url:http://www.ayerlans.cn/
   - title: About
     url: /about
   - title: Contact
