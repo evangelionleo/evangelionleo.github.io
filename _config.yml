@@ -82,7 +82,7 @@ sass:
   style: compressed
 
 # Plugins
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-paginate-content
 
