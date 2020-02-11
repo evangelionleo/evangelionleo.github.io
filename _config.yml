@@ -1,6 +1,6 @@
 ﻿# Site Settings
 name: Ayerlans
-title: 博客
+title: Ayerlans 的博客
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
@@ -12,13 +12,13 @@ email: evangelionleo@qq.com
 disqus_username: disqus_username
 show_hero: true
 menu:
-  - title: home
+  - title: 主页
     url: /
-  - title: about
+  - title: 关于
     url: /about
-  - title: Contact
+  - title: 联系我
     url: /contact
-  - title: feed
+  - title: 捐助
     url: /feed.xml
 
 
