@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Ayerlans
+title: ?
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
@@ -12,13 +12,13 @@ email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
 menu:
-  - title: Home
+  - title: Ö÷Ò³
     url: /
-  - title: About
+  - title: ¹ØÓÚ
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
+  - title: ÔÞÖú
     url: /feed.xml
 
 
