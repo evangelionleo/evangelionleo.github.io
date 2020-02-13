@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
+name: Ayerlans
 display_name: Ayerlans
 position: Chief Editor
 bio: Student.
