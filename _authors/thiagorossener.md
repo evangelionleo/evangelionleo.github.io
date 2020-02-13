@@ -2,14 +2,14 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: thiagorossener
-display_name: Thiago Rossener
+display_name: Ayerlans
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: Student.
+github_username: evangelionleo
+facebook_username: null
+twitter_username: null
+instagram_username: null
+linkedin_username: null
+medium_username: null
 ---
 
