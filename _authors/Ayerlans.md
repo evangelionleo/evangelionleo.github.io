@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/profile.jpg
 name: Ayerlans
 display_name: Ayerlans
 position: Chief Editor
