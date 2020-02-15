@@ -5,7 +5,11 @@
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
-
+	  <!-- 在正文开头添加网易云音乐插件 -->
+  {% if page.music-id %}
+    {% include cloud-music.html %}
+  {% endif %} 
+  {{ content }}
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
                 <p class="post-info">
