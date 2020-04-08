@@ -1,16 +1,15 @@
 ---
-date: 2020-02-20 12:26:40
+date: 2018-04-21 12:26:40
 layout: post
-title: 我们会在没有黑暗的地方相会
-subtitle:  Тихо Плыли Звёздной Пыли Небесные Прожектора
+title: Candy, candies, candy!
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: /assets/img/71347987_p0.jpg
-optimized_image: /assets/img/71347987_p0.jpg
-category: code
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
+category: diet
 tags:
-  - platform
-  - javascript
-  - vscode
+  - food
+  - tips
 author: thiagorossener
 ---
 
