@@ -8,9 +8,7 @@ image: /assets/img/71347987_p0.jpg
 optimized_image: /assets/img/71347987_p0.jpg
 category: code
 tags:
-  - platform
-  - javascript
-  - vscode
+  - test
 author: Ayerlans
 ---
 # Markdown语法
