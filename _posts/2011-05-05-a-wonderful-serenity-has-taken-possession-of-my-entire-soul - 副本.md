@@ -21,7 +21,8 @@ Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 ## Inline HTML elements
-
+![](post_img/e5f3656e.jpg)
+1
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
 - **To bold text**, use `<strong>`.
