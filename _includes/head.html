@@ -86,7 +86,20 @@
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
-
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
+    />
+    <script
+      src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
+      defer="defer"
+      onload='
+        for(let x=document.getElementsByClassName("language-mermaid"), i=0;i<x.length;i++)
+        {
+          x[i].classList.add("mermaid");
+          x[i].classList.remove("language-mermaid");
+        }'
+    ></script>
     <!-- Include extra styles -->
     {% include extra-css.html %}
 
@@ -95,5 +108,5 @@
         document.querySelector('html').classList.remove('no-js');
 
     </script>
-  
+
 </head>
