@@ -4,10 +4,11 @@ layout: post
 title: "在Jekyll中使用mermaid制图"
 subtitle:
 description:
-image:
+image:/assets/
 optimized_image:
 category:
 tags:
-author:
+author:Ayerlans
 paginate: false
 ---
+
