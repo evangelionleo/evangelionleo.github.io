@@ -1,1 +1,2 @@
  ./initpost.sh -c "博客健全计划"
+./initpost.sh -c "I-类聚合"
