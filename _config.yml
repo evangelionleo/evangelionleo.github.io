@@ -1,7 +1,7 @@
 ﻿# Site Settings
 name: Ayerlans
 title: Ayerlans 的博客
-description: 
+description:
 tags:
   - blog
   - template
@@ -76,6 +76,9 @@ paginate_content:
       is_generated: true
     single:
       is_generated: true
+
+
+
 
 # SASS
 sass:
