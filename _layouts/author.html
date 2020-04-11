@@ -26,12 +26,13 @@ layout: page
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
+	
   </ul>
+  Jekflix the blog template was made by Thiago Rossener
 </div>
 
-    <p>
-      <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
-    </p>
+    
+   
 {% assign author_urls = '' %}
 {% if page.github_username %}
     {% assign author_urls = author_urls | append: '"https://github.com/' | append: page.github_username | append: '",' %}
