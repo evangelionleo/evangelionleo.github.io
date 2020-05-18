@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Ayerlans" width="200">
 
 # Ayerlans
 
