@@ -61,7 +61,7 @@ layout: page
     {% if page.photo %}
     "image": "{{ page.photo }}",
     {% else %}
-    "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
+    "image": {{ "/assets/img/user.png" | prepend: site.baseurl | prepend: site.url }},
     {% endif %}
     "jobTitle": "{{ page.position }}",
     "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
