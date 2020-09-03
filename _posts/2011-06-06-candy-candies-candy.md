@@ -176,5 +176,36 @@ System.out.println(a);
 
 
 
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!--指令元素 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+DSADASDADAS
+<%
 
+%>
+<!-- 脚本元素 -->
+
+
+<%! int a=1;%>
+<!-- 成员变量 （静态变量） -->
+<!--声明变量 方法  -->
+<!--在注释里是可以套<%=%>表达式的的  -->
+<%-- JSP注释Html源码看不见 --%>
+<%int b=1;b++;a++;
+System.out.println(a);
+//狗屎（）Java注释
+%>
+<!--java程序片 被执行多次 在不同的 线程 中 -->
+<%=a %>
+<%=b %>
+<!--java 表达式  -->
+</body>
+</html>
 
