@@ -209,3 +209,44 @@ System.out.println(a);
 </body>
 </html>
 
+
+
+
+
+
+
+
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+你好？
+<!--指令标记   page include-->
+<%@include file="File.jsp" %>
+<%@include file="/ASD/e.jsp" %>
+
+
+<!--2severlet 类——>一个jsp? -->
+
+
+
+
+<!--动作标记  -->
+
+<jsp:include>
+<jsp:forward>
+<jsp:param>
+<jsp:useBean>
+
+
+</body>
+</html>
+
+
+
+
