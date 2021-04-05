@@ -124,3 +124,129 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!--指令元素 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+DSADASDADAS
+<%
+
+%>
+<!-- 脚本元素 -->
+
+
+<%! int a=1;%>
+<!-- 成员变量 （静态变量） -->
+<!--声明变量 方法  -->
+<!--在注释里是可以套Java程序片的  -->
+<%-- JSP注释Html源码看不见 --%>
+<%int b=1;b++;a++;
+System.out.println(a);
+//狗屎（）Java注释
+%>
+<!--java程序片 被执行多次 在不同的 线程 中 -->
+<%=a %>
+<%=b %>
+<!--java 表达式  -->
+</body>
+</html>
+
+
+
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!--指令元素 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+DSADASDADAS
+<%
+
+%>
+<!-- 脚本元素 -->
+
+
+<%! int a=1;%>
+<!-- 成员变量 （静态变量） -->
+<!--声明变量 方法  -->
+<!--在注释里是可以套<%=%>表达式的的  -->
+<%-- JSP注释Html源码看不见 --%>
+<%int b=1;b++;a++;
+System.out.println(a);
+//狗屎（）Java注释
+%>
+<!--java程序片 被执行多次 在不同的 线程 中 -->
+<%=a %>
+<%=b %>
+<!--java 表达式  -->
+</body>
+</html>
+
+
+
+
+
+
+
+
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+你好？
+<!--指令标记   page include-->
+<%@include file="File.jsp" %>
+<%@include file="/ASD/e.jsp" %>
+
+
+<!--2severlet 类——>一个jsp? -->
+
+
+
+
+<!--动作标记  -->
+
+<jsp:include>
+<jsp:forward>
+<jsp:param>
+<jsp:useBean>
+
+
+</body>
+</html>
+
+
+
+

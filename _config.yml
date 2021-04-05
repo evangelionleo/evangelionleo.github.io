@@ -104,3 +104,5 @@ exclude: [
 
 # Theme
 version: v3.0.2
+
+theme: jekyll-theme-cayman
