@@ -106,3 +106,7 @@ exclude: [
 version: v3.0.2
 
 theme: jekyll-theme-cayman
+
+ cdn:
+     jsdelivr:
+         enabled: true
