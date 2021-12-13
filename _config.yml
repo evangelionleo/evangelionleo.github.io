@@ -18,18 +18,18 @@ menu:
     url: /about
   - title: 联系我
     url: /contact
-  - title: feed
-    url: /feed.xml
+  # - title: feed
+  #   url: /feed.xml
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: evangelionleo
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+facebook_username: 
+twitter_username: 
+instagram_username:
+linkedin_username: 
+medium_username:
 
 
 # Posts Settings
