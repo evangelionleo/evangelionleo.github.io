@@ -24,6 +24,7 @@ layout: main
                 {% break %}
             {% else %}
                 {% assign featured = posts.first %}
+                {% posts.first.offset = 1 %}
             {% endif %}
         {% endfor %}
         <section class="hero" style="background-image: url({{ featured.image }})">
@@ -51,6 +52,9 @@ layout: main
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
         {% for post in posts %}
+            {%if post.offset == 1 %}
+                {% post.offset = 1 %}
+            {% else %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
@@ -101,6 +105,7 @@ layout: main
                     </div>
                 </div>
             </article>
+            {% endif %}
         {% endfor %}
     </section>
     <!-- Pagination -->
