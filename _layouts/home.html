@@ -20,6 +20,7 @@ layout: main
         {% for post in site.posts %}
             {%if post.istopfeatured %}
                 {% assign featured = post %}
+                {% post.ontop == 1%}
                 {% break %}
             {% else %}
                 {% assign featured = posts.first %}
@@ -50,7 +51,7 @@ layout: main
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
         {% for post in site.posts %}
-            
+            {%if post.ontop != 1 %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
@@ -101,7 +102,7 @@ layout: main
                     </div>
                 </div>
             </article>
-           
+           {% endif %}
         {% endfor %}
     </section>
     <!-- Pagination -->
