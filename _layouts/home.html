@@ -24,7 +24,6 @@ layout: main
                 {% break %}
             {% else %}
                 {% assign featured = posts.first %}
-                {% posts.first.offset = 1 %}
             {% endif %}
         {% endfor %}
         <section class="hero" style="background-image: url({{ featured.image }})">
