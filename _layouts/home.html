@@ -20,6 +20,7 @@ layout: main
         {% for post in site.posts %}
             {%if post.istopfeatured %}
                 {% assign featured = post %}
+                {% post.offset = 1 %}
                 {% break %}
             {% else %}
                 {% assign featured = posts.first %}
