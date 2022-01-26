@@ -6,7 +6,7 @@ subtitle: 疯女人与好女人与坏女人与电锯人
 description: 电锯人好看  
 image: /assets/82598639_zuuutgsty.jpg
 optimized_image: /assets/82598639_zuuutgsty.jpg
-category: 鼓掌
+category: blog
 tags:
 - scrapy
 - scapy
@@ -71,7 +71,7 @@ def get_all_info_of_one_market():
 ##### 听了大家的话 第一次 感觉高考没考好是件好事
 其实也不是这样 只是比较满足?  
 有些人的亚银保了北大  
-有些人的亚银给了他慢性病   
+有些人的亚银给了他慢性病 再不能从事代码工作     
 确实 考好了有用 应该是我想错了 山高路远  
 scrapy和scapy只差了一个字 好奇怪的两个包  
 可是没了nas 我存不了那么多 scapy就不能用了  
