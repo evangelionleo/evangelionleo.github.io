@@ -3,7 +3,7 @@ date: 2022-01-27 06:41:00
 layout: post
 title: "Tranquility"
 subtitle: 疯女人与好女人与坏女人与电锯人
-description:
+description: 电锯人好看  
 image: /assets/82598639_zuuutgsty.jpg
 optimized_image: /assets/82598639_zuuutgsty.jpg
 category: 鼓掌
@@ -77,7 +77,6 @@ scrapy和scapy只差了一个字 好奇怪的两个包
 可是没了nas 我存不了那么多 scapy就不能用了  
 不过能去上交确实厉害 心态好好  
 被成都,广州和上海的看过?  
-是引流起效果了吗 还是引来了怪人 用钉钉看博客也是好雅兴   
-也许是时候采取些行动了  
-电锯人好看  
+是SEO起效果了吗 还是引来了怪人 用钉钉看博客也是好雅兴   
+电锯人好看  一晚上看完了  
 ![](/assets/markdown-img-paste-20220127002413964.png)
